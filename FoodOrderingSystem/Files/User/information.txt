@@ -1,7 +1,1 @@
-moti:rbm:moti@mail.com:moti99:1234:+251 924342:ASTU
-sofi:fasil:sofi@yahoo.com:sofi12:12345:+251 9344:Adama
-ela:nadew:ela@mail.com:ela12:1234:+251 94234234:ASTU
-muaz:feti:muaz@mail.com:muaz:123123:+251 989898:ADAMA
-killo:jr:killo@astu.mail.com:killo12:1234:+251 923212:ASTU
-MUAZ:FAT:MUAZ@GMAIL.COM:MUA:12345:+251 910728200:ADAMA
-dsf:sf:dfs:webi:12345:+251 953453:dasda
+
